@@ -19,5 +19,5 @@ Run test:
 ```bash
 node test/specs/by_classname.js
 node test/specs/by_idTest.js
-node test/spec/by_name.js
+node test/specs/by_name.js
 ```
